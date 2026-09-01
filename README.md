@@ -200,6 +200,11 @@ For 70 sepsis patients in the test set, the model's first alarm was compared to 
 - Deploy as a Streamlit app for interactive risk visualisation
 
 ---
+## 📓 View Notebook
+
+[Click here to view the full notebook](https://nbviewer.org/github/TochiOkafor/sepsis-early-warning-lstm/blob/main/notebooks/sepsis-early-warning-lstm.ipynb)
+
+---
 
 ## How to Run
 
