@@ -2,6 +2,10 @@
 
 Predicting sepsis onset up to 6 hours in advance from ICU time-series data using a bidirectional attention-based LSTM. Every hour of delayed sepsis treatment increases mortality risk by ~7% — this project explores whether deep learning can meaningfully shift that curve.
 
+*Built around honest evaluation: it benchmarks deep learning against classical baselines, 
+reports calibration and proxy-feature problems most portfolio projects overlook, and 
+achieves a clinically meaningful 2.5-hour median warning lead time.*
+
 ---
 
 ## Why This Matters
